@@ -75,4 +75,6 @@ I corrected the code and tried again. This time, the attack succeeded, and **I c
 I used AI to brainstorm possible ways to exploit the unblocked HTML tags and refine the XSS payload. I tested the payloads myself, experimented with different approaches on the Exploit Server, and identified and corrected the issue that prevented the attack from working.
 
 
-##Conclusion: By using the PortSwigger XSS Cheat Sheet, Burp Suite Intruder, and the Exploit Server, I identified the HTML tags that were not blocked, developed an appropriate XSS payload, and successfully completed the lab after correcting the malformed code.
+## Conclusion: 
+
+By using the PortSwigger XSS Cheat Sheet, Burp Suite Intruder, and the Exploit Server, I identified the HTML tags that were not blocked, developed an appropriate XSS payload, and successfully completed the lab after correcting the malformed code.
