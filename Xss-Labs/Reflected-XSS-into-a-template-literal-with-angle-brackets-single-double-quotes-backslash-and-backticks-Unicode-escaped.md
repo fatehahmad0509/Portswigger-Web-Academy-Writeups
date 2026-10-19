@@ -1,4 +1,4 @@
-# PortSwigger Write-up: Reflected XSS into a template literal with Unicode-escaped characters
+# PortSwigger Write-up: Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped
 
 Practitioner
 
